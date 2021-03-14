@@ -1,1 +1,3 @@
 # Space
+Assignment I did for a job interview. The objective was to create a game in which the player can move a spaceship through an asteroid field and see the ores inside of them when the player gets close.
+The ship is controlled by turning the ship with WASD or the left control stick and moves forward when pressing the spacebar or the right trigger on the controller. Escape or the start button pauses the game and opens the menu.
